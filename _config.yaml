@@ -1,0 +1,7 @@
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
